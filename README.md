@@ -1,1 +1,1 @@
-# NFLwideRecievers
+# NFLwideReceivers
